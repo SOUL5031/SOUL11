@@ -32,11 +32,13 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "rotateProxyForAllAccounts": false,
-  "proxyRotationInterval": 2 // time to rotate proxy for each account, count by hours
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "rotateProxy": true,
+  "proxyRotationInterval": 2,
+  "isSkipInvalidProxy": false,
+  "delayEachAccount": [5, 8]
 }
 ```
 
