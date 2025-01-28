@@ -8,3 +8,18 @@ This project includes code that is related to encryption. By using this code, yo
 - Always conduct thorough testing and validation of any encryption code before deploying it in a production environment.
 
 Use this code at your own risk.
+
+# HOW TO RUN SCRIPT 
+
+```
+git clone
+```
+```
+cd Toggle
+```
+```
+npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto ws uuid pako moment lodash
+```
+```
+node index.js
+```
