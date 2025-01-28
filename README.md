@@ -8,7 +8,7 @@ This project includes code that is related to encryption. By using this code, yo
 - Always conduct thorough testing and validation of any encryption code before deploying it in a production environment.
 
 Use this code at your own risk.
-
+Register Airdrop : https://toggle.pro/sign-up/90733d3f-1ca0-4f8e-b886-f5b04c213582
 # HOW TO RUN SCRIPT 
 ![image](https://github.com/user-attachments/assets/629f3350-f32f-411b-bba0-669590295e98)
 
@@ -29,4 +29,14 @@ Datas.txt isi dengan set-cookie: contoh copy sampai bawah jangan copy vary:
 
 ![image](https://github.com/user-attachments/assets/9279ef3e-16cd-498c-90fe-52415687fbab) 
 
+Suprort Multi Akun 
+set-cookie: 1
+set-cookie: 2
+set-cookie: 3
 proxies isi dengan proxymu contoh 
+```
+http://user:password@host:port
+https://user:password@host:port
+socks4://user:password@host:port
+socks5://user:password@host:port
+```
