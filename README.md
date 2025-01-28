@@ -13,7 +13,7 @@ Use this code at your own risk.
 ![image](https://github.com/user-attachments/assets/629f3350-f32f-411b-bba0-669590295e98)
 
 ```
-git clone
+git clone https://github.com/AirdropFamilyIDN-V2-0/Toggle.git
 ```
 ```
 cd Toggle
@@ -24,3 +24,9 @@ npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypt
 ```
 node index.js
 ```
+
+Datas.txt isi dengan set-cookie: contoh copy sampai bawah jangan copy vary:
+
+![image](https://github.com/user-attachments/assets/9279ef3e-16cd-498c-90fe-52415687fbab) 
+
+proxies isi dengan proxymu contoh 
