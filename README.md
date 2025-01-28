@@ -1,4 +1,4 @@
-# ini gw edit .bat dan bash .sh supaya kalian yang awam ga pusing
+# ini gw edit .bat dan bash .sh jadi index supaya kalian yang awam ga pusing
 # Disclaimer
 
 This project includes code that is related to encryption. By using this code, you acknowledge the following:
