@@ -10,6 +10,7 @@ This project includes code that is related to encryption. By using this code, yo
 Use this code at your own risk.
 
 # HOW TO RUN SCRIPT 
+![image](https://github.com/user-attachments/assets/629f3350-f32f-411b-bba0-669590295e98)
 
 ```
 git clone
